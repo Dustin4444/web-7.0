@@ -14,7 +14,7 @@
   "homepage": "http://freenode.net",
   "devDependencies": {
     "postcss": "^7.0.34",
-    "postcss-cli": "^7.1.2",
+    "postcss-cli": "^11.0.1",
     "postcss-csso": "^4.0.0",
     "postcss-preset-env": "^6.7.0",
     "standard": "^11.0.1",
