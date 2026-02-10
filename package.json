@@ -18,7 +18,7 @@
     "postcss-csso": "^4.0.0",
     "postcss-preset-env": "^6.7.0",
     "standard": "^11.0.1",
-    "uglify-js": "^3.3.25"
+    "uglify-js": "^3.19.3"
   },
   "standard": {
     "ignore": [
